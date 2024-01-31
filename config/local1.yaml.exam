@@ -1,0 +1,19 @@
+# 텔레그램
+TELEGRAM : 
+  BOT_NAME : YourBotName
+  BOT_TOKEN : YourBotToken
+  CHAT_ID : YourChatID
+
+# 데이터 베이스
+DATABASE : 
+  MYSQL_SERVER_URL : 123.456.789.000
+  MYSQL_SERVER_PORT : 1234
+  MYSQL_USER_ID : user
+  MYSQL_USER_PW : pw
+  MYSQL_SELECT_DB_NAME : dbname
+
+# MAINNET LCD
+MAINNET_LCD :
+- CHAIN_NAME : Cosmos
+  URL : cosmoslcd.com
+  EX : https://www.mintscan.io
